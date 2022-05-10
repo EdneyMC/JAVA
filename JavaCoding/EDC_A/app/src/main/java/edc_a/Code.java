@@ -1,4 +1,4 @@
-package javacoding;
+package edc_a;
 
 import java.util.Scanner;
 
